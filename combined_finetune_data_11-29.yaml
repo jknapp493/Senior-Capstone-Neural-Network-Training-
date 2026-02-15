@@ -1,0 +1,15 @@
+names:
+- Battery
+- Cardboard
+- Glass
+- Metal
+- Paper
+- Plastic
+- Trash
+nc: 7
+train:
+- /home/jackson/yolov8ntraining_1/dataset_yolo_detect_finetune_10-25/images/train
+- /home/jackson/yolov8ntraining_1/dataset_yolo_detect_finetune_11-28/images/train
+val:
+- /home/jackson/yolov8ntraining_1/dataset_yolo_detect_finetune_10-25/images/val
+- /home/jackson/yolov8ntraining_1/dataset_yolo_detect_finetune_11-28/images/val
